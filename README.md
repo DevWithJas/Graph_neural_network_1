@@ -1,1 +1,1 @@
-# Graph_neural_network_1
+# Graph Neural networks for synthetic fiber production
